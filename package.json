@@ -1,0 +1,25 @@
+{
+  "name": "HRMapp",
+  "version": "1.0.0",
+  "description": "Heart rate monitoring app.",
+  "main": "scanner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scanner.js"
+  },
+  "keywords": [
+    "hr",
+    "heart",
+    "rate",
+    "ant",
+    "ant+",
+    "ant",
+    "usb",
+    "stick"
+  ],
+  "author": "Ivo Kovacevic",
+  "license": "ISC",
+  "dependencies": {
+    "ant-plus": "0.0.19"
+  }
+}
